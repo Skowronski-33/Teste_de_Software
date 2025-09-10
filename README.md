@@ -59,7 +59,7 @@ Antes de começar, você vai precisar ter as seguintes ferramentas instaladas:
 
 1.  Clone o repositório para sua máquina local:
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone [https://github.com/Skowronski-33/Teste_de_Software.git]
     ```
 2.  Navegue até o diretório do projeto:
     ```bash
