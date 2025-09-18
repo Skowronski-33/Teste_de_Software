@@ -98,7 +98,3 @@ A aplicação oferece os seguintes endpoints REST para manipulação de dados:
 ## ✍️ Autor
 
 Feito por Pedro Henrique Skowronski
-
-=======
-# Teste_de_Software
->>>>>>> 60b730f7872ecd4be11b4e779de2c0dc332d51ec
