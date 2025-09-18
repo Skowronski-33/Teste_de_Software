@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CRUD de Produtos com Testes (Spring Boot)
 
 Um projeto acadêmico completo que implementa uma aplicação de CRUD (Create, Read, Update, Delete) em Java com Spring Boot, com foco na demonstração de uma suíte de testes robusta em três níveis: Unidade, Integração e Sistema.
